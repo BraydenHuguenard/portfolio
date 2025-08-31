@@ -4,16 +4,16 @@ export const education = [
       degree: "B.S. in Computer Science · 2024 – 2027",
       summary: [
         "Specializing in Artificial Intelligence & Modeling and Simulation",
-        "Current GPA: 4.0",
+        "4.0 GPA",
         "Teaching Assistant for CS 3600 (Intro to AI)",
         "Tech Lead for iOS Club, mentoring and leading app development projects",
         "Studied abroad in France, gaining personal growth and deepening my CS knowledge"
       ],
       description: [
         "4.0 GPA specializing in Artificial Intelligence & Modeling and Simulation",
-        "Awarded Zell Miller, Daniel Hager, and Delta Scholarships for academic excellence",
-        "Teaching Assistant for CS 3600 (Intro to Artificial Intelligence), guiding students through complex concepts",
-        "Tech Lead for Georgia Tech’s iOS Club, directing app development and mentoring members",
+        "Recipient of Zell Miller, Daniel Hager, and Delta Air Lines Scholarships recognizing academic excellence",
+        "Teaching Assistant for CS 3600 (Intro to AI), supporting 200+ students and contributing to course design",
+        "Technical Lead for Georgia Tech’s iOS Club, managing 25+ developers and directing large-scale app development",
         "Completed a semester abroad in France, expanding cultural horizons while advancing CS coursework"
       ]
     },

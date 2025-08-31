@@ -4,7 +4,6 @@ export const projects = [
       role: "Member of the GT iOS Club",
       summary: "Nomad is an all-in-one road trip planning app created to make every journey smoother and more memorable",
       description: [
-        "Nomad gives users the ability to:",
         "Plan itineraries manually or with guidance from our AI assistant, Atlas",
         "Navigate routes with a custom-built navigation system",
         "Relive trips by viewing past journeys and uploading photos to preserve memories",
@@ -28,7 +27,6 @@ export const projects = [
       role: "Scrum Master",
       summary: "Findy is a web application that helps new students find their way around campus and discover events",
       description: [
-        "Findy gives users the ability to:",
         "Discover campus events through an interactive map and intuitive event listings",
         "Create and share personal events with the campus community",
         "Navigate campus using student-focused, map-based features",

@@ -12,6 +12,16 @@ export const courses = [
     ]
   },
   {
+    "title": "Machine Learning",
+    "num": "CS 4641",
+    "highlights": ["Supervised & unsupervised learning", "Randomized search algorithms", "Bayesian learning methods", "Reinforcement learning"],
+    "description": [
+      "Introduction to machine learning concepts and algorithms",
+      "Hands-on experience with real-world datasets",
+      "Emphasis on practical applications and project-based learning"
+    ]
+  },
+  {
     title: "Design and Analysis of Algorithms",
     num: "CS 3510",
     highlights: ["Graph theory", "NP-completeness", "Greedy & DP algorithms"],
@@ -65,16 +75,6 @@ export const courses = [
     ]
   },
   {
-    title: "Discrete Mathematics",
-    num: "CS 2050",
-    highlights: ["Logic & proofs", "Combinatorics", "Graph theory"],
-    description: [
-      "Logic and truth tables, predicate logic",
-      "Proof techniques: direct, contrapositive, contradiction, induction",
-      "Fundamental set theory and combinatorial principles"
-    ]
-  },
-  {
     title: "Linear Algebra",
     num: "Math 1554",
     highlights: ["Matrix ops", "Eigenvectors", "ML applications"],
@@ -83,6 +83,36 @@ export const courses = [
       "Vector spaces, bases, and dimensionality",
       "Eigenvalues, eigenvectors, and diagonalization",
       "Introductory applications in machine learning, image generation, and search algorithms like Google PageRank"
+    ]
+  },
+  {
+    "title": "Introduction to Probability and Statistics",
+    "num": "MATH 3215",
+    "highlights": ["Basic probability theory", "Statistical inference", "Hypothesis testing", "Confidence intervals"],
+    "description": [
+      "Learn to quantify uncertainty and analyze data rigorously",
+      "Build intuition for probabilistic reasoning and real-world statistical modeling",
+      "Develop skills applicable to AI, ML, and data-driven decision-making"
+    ]
+  },
+  {
+    "title": "Applied Combinatorics",
+    "num": "MATH 3012",
+    "highlights": ["Counting methods", "Graph and network models", "Linear recurrences", "Discrete optimization"],
+    "description": [
+      "Dive into combinatorial problem solving with practical applications",
+      "Use graphs and networks to model complex systems",
+      "Gain tools for algorithms, optimization, and computational problem solving"
+    ]
+  },
+  {
+    title: "Discrete Mathematics",
+    num: "CS 2050",
+    highlights: ["Logic & proofs", "Combinatorics", "Graph theory"],
+    description: [
+      "Logic and truth tables, predicate logic",
+      "Proof techniques: direct, contrapositive, contradiction, induction",
+      "Fundamental set theory and combinatorial principles"
     ]
   },
   {
