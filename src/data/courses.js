@@ -1,5 +1,15 @@
 export const courses = [
   {
+    title: "Machine Learning",
+    num: "CS 4641",
+    highlights: ["Supervised & unsupervised learning", "Randomized search algorithms", "Bayesian learning methods", "Reinforcement learning"],
+    description: [
+      "Introduction to machine learning concepts and algorithms",
+      "Hands-on experience with real-world datasets",
+      "Emphasis on practical applications and project-based learning"
+    ]
+  },
+  {
     title: "Intro to Artificial Intelligence",
     num: "CS 3600",
     highlights: ["Search algorithms", "Probabilistic models", "Machine learning intro"],
@@ -12,13 +22,24 @@ export const courses = [
     ]
   },
   {
-    "title": "Machine Learning",
-    "num": "CS 4641",
-    "highlights": ["Supervised & unsupervised learning", "Randomized search algorithms", "Bayesian learning methods", "Reinforcement learning"],
-    "description": [
-      "Introduction to machine learning concepts and algorithms",
-      "Hands-on experience with real-world datasets",
-      "Emphasis on practical applications and project-based learning"
+    title: "Linear Algebra",
+    num: "Math 1554",
+    highlights: ["Matrix ops", "Eigenvectors", "ML applications"],
+    description: [
+      "Matrix operations and solving linear systems",
+      "Vector spaces, bases, and dimensionality",
+      "Eigenvalues, eigenvectors, and diagonalization",
+      "Introductory applications in machine learning, image generation, and search algorithms like Google PageRank"
+    ]
+  },
+  {
+    title: "Introduction to Probability and Statistics",
+    num: "MATH 3215",
+    highlights: ["Basic probability theory", "Statistical inference", "Hypothesis testing", "Confidence intervals"],
+    description: [
+      "Learn to quantify uncertainty and analyze data rigorously",
+      "Build intuition for probabilistic reasoning and real-world statistical modeling",
+      "Develop skills applicable to AI, ML, and data-driven decision-making"
     ]
   },
   {
@@ -30,6 +51,27 @@ export const courses = [
       "Core paradigms: divide and conquer, greedy algorithms, dynamic programming",
       "Graph algorithms, sorting, searching, and optimization",
       "NP-completeness and computational hardness"
+    ]
+  },
+  {
+    title: "Objects and Design",
+    num: "CS 2340",
+    highlights: ["OOP patterns", "Agile teamwork", "UML diagrams"],
+    description: [
+      "Object-oriented programming principles and class hierarchies",
+      "Design patterns like Factory, Singleton, Observer, and more",
+      "Team-based software development with version control and Agile",
+      "Scrum methodology and project management",
+    ]
+  },
+  {
+    title: "Computing, Society, and Professionalism",
+    num: "CS 3001",
+    highlights: ["Ethical implications of technology", "Professional responsibilities", "Public policy issues in computing", "Case studies and real-world dilemmas"],
+    description: [
+      "Examine the role and impact of information and communication technology in society",
+      "Focus on ethical, professional, and public policy issues",
+      "Analyze real-world case studies to understand the responsibilities of computing professionals"
     ]
   },
   {
@@ -54,52 +96,10 @@ export const courses = [
     ]
   },
   {
-    title: "Objects and Design",
-    num: "CS 2340",
-    highlights: ["OOP patterns", "Agile teamwork", "UML diagrams"],
+    title: "Applied Combinatorics",
+    num: "MATH 3012",
+    highlights: ["Counting methods", "Graph and network models", "Linear recurrences", "Discrete optimization"],
     description: [
-      "Object-oriented programming principles and class hierarchies",
-      "Design patterns like Factory, Singleton, Observer, and more",
-      "Team-based software development with version control and Agile",
-      "Scrum methodology and project management",
-    ]
-  },
-  {
-    title: "Data Structures",
-    num: "CS 1332",
-    highlights: ["Linked lists, trees, arrays", "Sorting/searching", "Runtime tradeoffs"],
-    description: [
-      "Core data structures: arrays, linked lists, stacks, queues, trees, heaps, graphs",
-      "Sorting/searching techniques and time complexities",
-      "Efficient use of memory and understanding runtime trade-offs"
-    ]
-  },
-  {
-    title: "Linear Algebra",
-    num: "Math 1554",
-    highlights: ["Matrix ops", "Eigenvectors", "ML applications"],
-    description: [
-      "Matrix operations and solving linear systems",
-      "Vector spaces, bases, and dimensionality",
-      "Eigenvalues, eigenvectors, and diagonalization",
-      "Introductory applications in machine learning, image generation, and search algorithms like Google PageRank"
-    ]
-  },
-  {
-    "title": "Introduction to Probability and Statistics",
-    "num": "MATH 3215",
-    "highlights": ["Basic probability theory", "Statistical inference", "Hypothesis testing", "Confidence intervals"],
-    "description": [
-      "Learn to quantify uncertainty and analyze data rigorously",
-      "Build intuition for probabilistic reasoning and real-world statistical modeling",
-      "Develop skills applicable to AI, ML, and data-driven decision-making"
-    ]
-  },
-  {
-    "title": "Applied Combinatorics",
-    "num": "MATH 3012",
-    "highlights": ["Counting methods", "Graph and network models", "Linear recurrences", "Discrete optimization"],
-    "description": [
       "Dive into combinatorial problem solving with practical applications",
       "Use graphs and networks to model complex systems",
       "Gain tools for algorithms, optimization, and computational problem solving"
@@ -113,6 +113,16 @@ export const courses = [
       "Logic and truth tables, predicate logic",
       "Proof techniques: direct, contrapositive, contradiction, induction",
       "Fundamental set theory and combinatorial principles"
+    ]
+  },
+  {
+    title: "Data Structures",
+    num: "CS 1332",
+    highlights: ["Linked lists, trees, arrays", "Sorting/searching", "Runtime tradeoffs"],
+    description: [
+      "Core data structures: arrays, linked lists, stacks, queues, trees, heaps, graphs",
+      "Sorting/searching techniques and time complexities",
+      "Efficient use of memory and understanding runtime trade-offs"
     ]
   },
   {
