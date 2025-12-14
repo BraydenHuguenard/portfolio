@@ -24,7 +24,7 @@ export const projects = [
     {
       title: "Detecting Depression in Teens",
       role: "Machine Learning Class Project",
-      summary: "A machine learning project focused on predicting depression risk in teenagers using survey data.",
+      summary: "A machine learning project focused on predicting depression risk in teenagers using survey data",
       description: [
         "Built and evaluated multiple machine learning models to predict depression risk in adolescents",
         "Performed data preprocessing, feature engineering, and exploratory data analysis on data",
