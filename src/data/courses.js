@@ -1,4 +1,4 @@
-export const courses = [
+const completedCourses = [
   {
     title: "Machine Learning",
     num: "CS 4641",
@@ -18,12 +18,12 @@ export const courses = [
       "Constraint satisfaction problems (CSPs) and local search techniques",
       "Probabilistic models: Bayes networks and stochastic matrices",
       "Markov decision processes (MDPs) and Q-learning for reinforcement learning",
-      "Intro to machine learning: gradient decent, neural networks, and modern architectures like transformers"
+      "Intro to machine learning: gradient descent, neural networks, and modern architectures like transformers"
     ]
   },
   {
     title: "Linear Algebra",
-    num: "Math 1554",
+    num: "MATH 1554",
     highlights: ["Matrix ops", "Eigenvectors", "ML applications"],
     description: [
       "Matrix operations and solving linear systems",
@@ -136,4 +136,13 @@ export const courses = [
       "Introduction to algorithms and data structures"
     ]
   }
+];
+
+export const courses = [
+  { title: 'Computer Vision', num: 'CS 6476', status: 'In progress · Fall 2026', highlights: ['Graduate-level coursework'], description: ['Enrolled in Computer Vision in Fall 2026. This course is in progress, not yet completed.'] },
+  { title: 'Deep Learning', num: 'CS 7643', status: 'In progress · Fall 2026', highlights: ['Graduate-level coursework'], description: ['Enrolled in Deep Learning in Fall 2026. This course is in progress, not yet completed.'] },
+  { title: 'Introduction to Cognitive Science', num: 'CS 3790', status: 'In progress · Fall 2026', highlights: ['Current undergraduate coursework'], description: ['Enrolled in Introduction to Cognitive Science in Fall 2026. This course is in progress, not yet completed.'] },
+  { title: 'Introduction to Database Systems', num: 'CS 4400', status: 'Completed · Spring 2026', highlights: ['Database systems', 'Current teaching assistant'], description: ['Completed with an A in Spring 2026.', 'Teaching assistant for this course beginning in August 2026.'] },
+  { title: 'Introduction to High Performance Computing', num: 'CX 4220', status: 'Completed · Spring 2026', highlights: ['High performance computing'], description: ['Completed with an A in Spring 2026.'] },
+  ...completedCourses.map(course => ({ ...course, status: 'Completed' })),
 ];

@@ -1,0 +1,1282 @@
+{
+  "date": "2026-09-18T00:49:22.025Z",
+  "checks": [
+    {
+      "name": "1280px: no horizontal overflow",
+      "passed": true
+    },
+    {
+      "name": "Page at 1280px: no automatic accessibility violations",
+      "passed": true
+    },
+    {
+      "name": "768px: no horizontal overflow",
+      "passed": true
+    },
+    {
+      "name": "Page at 768px: no automatic accessibility violations",
+      "passed": true
+    },
+    {
+      "name": "390px: no horizontal overflow",
+      "passed": true
+    },
+    {
+      "name": "Page at 390px: no automatic accessibility violations",
+      "passed": true
+    },
+    {
+      "name": "320px: no horizontal overflow",
+      "passed": true
+    },
+    {
+      "name": "Page at 320px: no automatic accessibility violations",
+      "passed": true
+    },
+    {
+      "name": "Explore project: Reverie: modal opens",
+      "passed": true
+    },
+    {
+      "name": "Explore project: Reverie: focus moves into modal",
+      "passed": true
+    },
+    {
+      "name": "Explore project: Reverie: modal fits narrow viewport",
+      "passed": true
+    },
+    {
+      "name": "Explore project: Reverie: no automatic accessibility violations",
+      "passed": true
+    },
+    {
+      "name": "Explore project: Reverie: focus returns to trigger",
+      "passed": true
+    },
+    {
+      "name": "Explore project: Reverie: scrolling restored",
+      "passed": true
+    },
+    {
+      "name": "Explore project: Teen Mental Health Predictive Model: modal opens",
+      "passed": true
+    },
+    {
+      "name": "Explore project: Teen Mental Health Predictive Model: focus moves into modal",
+      "passed": true
+    },
+    {
+      "name": "Explore project: Teen Mental Health Predictive Model: modal fits narrow viewport",
+      "passed": true
+    },
+    {
+      "name": "Explore project: Teen Mental Health Predictive Model: no automatic accessibility violations",
+      "passed": true
+    },
+    {
+      "name": "Explore project: Teen Mental Health Predictive Model: focus returns to trigger",
+      "passed": true
+    },
+    {
+      "name": "Explore project: Teen Mental Health Predictive Model: scrolling restored",
+      "passed": true
+    },
+    {
+      "name": "Explore project: Nomad: modal opens",
+      "passed": true
+    },
+    {
+      "name": "Explore project: Nomad: focus moves into modal",
+      "passed": true
+    },
+    {
+      "name": "Explore project: Nomad: modal fits narrow viewport",
+      "passed": true
+    },
+    {
+      "name": "Explore project: Nomad: no automatic accessibility violations",
+      "passed": true
+    },
+    {
+      "name": "Gallery: next changes image",
+      "passed": true
+    },
+    {
+      "name": "Gallery: previous restores image",
+      "passed": true
+    },
+    {
+      "name": "Gallery: previous wraps to image 7",
+      "passed": true
+    },
+    {
+      "name": "Explore project: Nomad: focus returns to trigger",
+      "passed": true
+    },
+    {
+      "name": "Explore project: Nomad: scrolling restored",
+      "passed": true
+    },
+    {
+      "name": "Explore project: Findy: modal opens",
+      "passed": true
+    },
+    {
+      "name": "Explore project: Findy: focus moves into modal",
+      "passed": true
+    },
+    {
+      "name": "Explore project: Findy: modal fits narrow viewport",
+      "passed": true
+    },
+    {
+      "name": "Explore project: Findy: no automatic accessibility violations",
+      "passed": true
+    },
+    {
+      "name": "Explore project: Findy: focus returns to trigger",
+      "passed": true
+    },
+    {
+      "name": "Explore project: Findy: scrolling restored",
+      "passed": true
+    },
+    {
+      "name": "Explore project: MLB Season Simulator: modal opens",
+      "passed": true
+    },
+    {
+      "name": "Explore project: MLB Season Simulator: focus moves into modal",
+      "passed": true
+    },
+    {
+      "name": "Explore project: MLB Season Simulator: modal fits narrow viewport",
+      "passed": true
+    },
+    {
+      "name": "Explore project: MLB Season Simulator: no automatic accessibility violations",
+      "passed": true
+    },
+    {
+      "name": "Explore project: MLB Season Simulator: focus returns to trigger",
+      "passed": true
+    },
+    {
+      "name": "Explore project: MLB Season Simulator: scrolling restored",
+      "passed": true
+    },
+    {
+      "name": "More about my education at Georgia Institute of Technology: modal opens",
+      "passed": true
+    },
+    {
+      "name": "More about my education at Georgia Institute of Technology: focus moves into modal",
+      "passed": true
+    },
+    {
+      "name": "More about my education at Georgia Institute of Technology: modal fits narrow viewport",
+      "passed": true
+    },
+    {
+      "name": "More about my education at Georgia Institute of Technology: no automatic accessibility violations",
+      "passed": true
+    },
+    {
+      "name": "More about my education at Georgia Institute of Technology: focus returns to trigger",
+      "passed": true
+    },
+    {
+      "name": "More about my education at Georgia Institute of Technology: scrolling restored",
+      "passed": true
+    },
+    {
+      "name": "More about my education at Creekview High School: modal opens",
+      "passed": true
+    },
+    {
+      "name": "More about my education at Creekview High School: focus moves into modal",
+      "passed": true
+    },
+    {
+      "name": "More about my education at Creekview High School: modal fits narrow viewport",
+      "passed": true
+    },
+    {
+      "name": "More about my education at Creekview High School: no automatic accessibility violations",
+      "passed": true
+    },
+    {
+      "name": "More about my education at Creekview High School: focus returns to trigger",
+      "passed": true
+    },
+    {
+      "name": "More about my education at Creekview High School: scrolling restored",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 6476: Computer Vision: modal opens",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 6476: Computer Vision: focus moves into modal",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 6476: Computer Vision: modal fits narrow viewport",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 6476: Computer Vision: no automatic accessibility violations",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 6476: Computer Vision: focus returns to trigger",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 6476: Computer Vision: scrolling restored",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 7643: Deep Learning: modal opens",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 7643: Deep Learning: focus moves into modal",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 7643: Deep Learning: modal fits narrow viewport",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 7643: Deep Learning: no automatic accessibility violations",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 7643: Deep Learning: focus returns to trigger",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 7643: Deep Learning: scrolling restored",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 3790: Introduction to Cognitive Science: modal opens",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 3790: Introduction to Cognitive Science: focus moves into modal",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 3790: Introduction to Cognitive Science: modal fits narrow viewport",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 3790: Introduction to Cognitive Science: no automatic accessibility violations",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 3790: Introduction to Cognitive Science: focus returns to trigger",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 3790: Introduction to Cognitive Science: scrolling restored",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 4400: Introduction to Database Systems: modal opens",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 4400: Introduction to Database Systems: focus moves into modal",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 4400: Introduction to Database Systems: modal fits narrow viewport",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 4400: Introduction to Database Systems: no automatic accessibility violations",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 4400: Introduction to Database Systems: focus returns to trigger",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 4400: Introduction to Database Systems: scrolling restored",
+      "passed": true
+    },
+    {
+      "name": "Course details for CX 4220: Introduction to High Performance Computing: modal opens",
+      "passed": true
+    },
+    {
+      "name": "Course details for CX 4220: Introduction to High Performance Computing: focus moves into modal",
+      "passed": true
+    },
+    {
+      "name": "Course details for CX 4220: Introduction to High Performance Computing: modal fits narrow viewport",
+      "passed": true
+    },
+    {
+      "name": "Course details for CX 4220: Introduction to High Performance Computing: no automatic accessibility violations",
+      "passed": true
+    },
+    {
+      "name": "Course details for CX 4220: Introduction to High Performance Computing: focus returns to trigger",
+      "passed": true
+    },
+    {
+      "name": "Course details for CX 4220: Introduction to High Performance Computing: scrolling restored",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 4641: Machine Learning: modal opens",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 4641: Machine Learning: focus moves into modal",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 4641: Machine Learning: modal fits narrow viewport",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 4641: Machine Learning: no automatic accessibility violations",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 4641: Machine Learning: focus returns to trigger",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 4641: Machine Learning: scrolling restored",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 3600: Intro to Artificial Intelligence: modal opens",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 3600: Intro to Artificial Intelligence: focus moves into modal",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 3600: Intro to Artificial Intelligence: modal fits narrow viewport",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 3600: Intro to Artificial Intelligence: no automatic accessibility violations",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 3600: Intro to Artificial Intelligence: focus returns to trigger",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 3600: Intro to Artificial Intelligence: scrolling restored",
+      "passed": true
+    },
+    {
+      "name": "Course details for MATH 1554: Linear Algebra: modal opens",
+      "passed": true
+    },
+    {
+      "name": "Course details for MATH 1554: Linear Algebra: focus moves into modal",
+      "passed": true
+    },
+    {
+      "name": "Course details for MATH 1554: Linear Algebra: modal fits narrow viewport",
+      "passed": true
+    },
+    {
+      "name": "Course details for MATH 1554: Linear Algebra: no automatic accessibility violations",
+      "passed": true
+    },
+    {
+      "name": "Course details for MATH 1554: Linear Algebra: focus returns to trigger",
+      "passed": true
+    },
+    {
+      "name": "Course details for MATH 1554: Linear Algebra: scrolling restored",
+      "passed": true
+    },
+    {
+      "name": "Course details for MATH 3215: Introduction to Probability and Statistics: modal opens",
+      "passed": true
+    },
+    {
+      "name": "Course details for MATH 3215: Introduction to Probability and Statistics: focus moves into modal",
+      "passed": true
+    },
+    {
+      "name": "Course details for MATH 3215: Introduction to Probability and Statistics: modal fits narrow viewport",
+      "passed": true
+    },
+    {
+      "name": "Course details for MATH 3215: Introduction to Probability and Statistics: no automatic accessibility violations",
+      "passed": true
+    },
+    {
+      "name": "Course details for MATH 3215: Introduction to Probability and Statistics: focus returns to trigger",
+      "passed": true
+    },
+    {
+      "name": "Course details for MATH 3215: Introduction to Probability and Statistics: scrolling restored",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 3510: Design and Analysis of Algorithms: modal opens",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 3510: Design and Analysis of Algorithms: focus moves into modal",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 3510: Design and Analysis of Algorithms: modal fits narrow viewport",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 3510: Design and Analysis of Algorithms: no automatic accessibility violations",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 3510: Design and Analysis of Algorithms: focus returns to trigger",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 3510: Design and Analysis of Algorithms: scrolling restored",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 2340: Objects and Design: modal opens",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 2340: Objects and Design: focus moves into modal",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 2340: Objects and Design: modal fits narrow viewport",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 2340: Objects and Design: no automatic accessibility violations",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 2340: Objects and Design: focus returns to trigger",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 2340: Objects and Design: scrolling restored",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 3001: Computing, Society, and Professionalism: modal opens",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 3001: Computing, Society, and Professionalism: focus moves into modal",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 3001: Computing, Society, and Professionalism: modal fits narrow viewport",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 3001: Computing, Society, and Professionalism: no automatic accessibility violations",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 3001: Computing, Society, and Professionalism: focus returns to trigger",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 3001: Computing, Society, and Professionalism: scrolling restored",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 2200: Systems and Networks: modal opens",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 2200: Systems and Networks: focus moves into modal",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 2200: Systems and Networks: modal fits narrow viewport",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 2200: Systems and Networks: no automatic accessibility violations",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 2200: Systems and Networks: focus returns to trigger",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 2200: Systems and Networks: scrolling restored",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 2110: Computer Organization: modal opens",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 2110: Computer Organization: focus moves into modal",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 2110: Computer Organization: modal fits narrow viewport",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 2110: Computer Organization: no automatic accessibility violations",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 2110: Computer Organization: focus returns to trigger",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 2110: Computer Organization: scrolling restored",
+      "passed": true
+    },
+    {
+      "name": "Course details for MATH 3012: Applied Combinatorics: modal opens",
+      "passed": true
+    },
+    {
+      "name": "Course details for MATH 3012: Applied Combinatorics: focus moves into modal",
+      "passed": true
+    },
+    {
+      "name": "Course details for MATH 3012: Applied Combinatorics: modal fits narrow viewport",
+      "passed": true
+    },
+    {
+      "name": "Course details for MATH 3012: Applied Combinatorics: no automatic accessibility violations",
+      "passed": true
+    },
+    {
+      "name": "Course details for MATH 3012: Applied Combinatorics: focus returns to trigger",
+      "passed": true
+    },
+    {
+      "name": "Course details for MATH 3012: Applied Combinatorics: scrolling restored",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 2050: Discrete Mathematics: modal opens",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 2050: Discrete Mathematics: focus moves into modal",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 2050: Discrete Mathematics: modal fits narrow viewport",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 2050: Discrete Mathematics: no automatic accessibility violations",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 2050: Discrete Mathematics: focus returns to trigger",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 2050: Discrete Mathematics: scrolling restored",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 1332: Data Structures: modal opens",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 1332: Data Structures: focus moves into modal",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 1332: Data Structures: modal fits narrow viewport",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 1332: Data Structures: no automatic accessibility violations",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 1332: Data Structures: focus returns to trigger",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 1332: Data Structures: scrolling restored",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 1331: Intro to Object-Oriented Programming: modal opens",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 1331: Intro to Object-Oriented Programming: focus moves into modal",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 1331: Intro to Object-Oriented Programming: modal fits narrow viewport",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 1331: Intro to Object-Oriented Programming: no automatic accessibility violations",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 1331: Intro to Object-Oriented Programming: focus returns to trigger",
+      "passed": true
+    },
+    {
+      "name": "Course details for CS 1331: Intro to Object-Oriented Programming: scrolling restored",
+      "passed": true
+    },
+    {
+      "name": "Local resource loads: /assets/Fall-2026-Resume.pdf",
+      "passed": true
+    },
+    {
+      "name": "Local resource loads: /assets/ProfilePic-CF48U_L2.webp",
+      "passed": true
+    },
+    {
+      "name": "200% text size at 320px: no horizontal overflow",
+      "passed": true
+    },
+    {
+      "name": "WCAG text spacing at 320px: no horizontal overflow",
+      "passed": true
+    }
+  ],
+  "scans": [
+    {
+      "name": "Page at 1280px",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "targets": [
+            [
+              ".hero-grid > div > .eyebrow"
+            ],
+            [
+              "#hero-title"
+            ],
+            [
+              ".hero-description"
+            ],
+            [
+              ".hero-context"
+            ],
+            [
+              ".actions > a[href=\"mailto:bhuguenard3@gatech.edu\"]"
+            ],
+            [
+              "figcaption"
+            ],
+            [
+              ".hero-bottom > span"
+            ],
+            [
+              ".hero-bottom > a[href$=\"#about\"]"
+            ],
+            [
+              "a[href$=\"#about\"] > span[aria-hidden=\"true\"]"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Page at 768px",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "targets": [
+            [
+              ".hero-grid > div > .eyebrow"
+            ],
+            [
+              "#hero-title"
+            ],
+            [
+              ".hero-description"
+            ],
+            [
+              ".hero-context"
+            ],
+            [
+              ".actions > a[href=\"mailto:bhuguenard3@gatech.edu\"]"
+            ],
+            [
+              "figcaption"
+            ],
+            [
+              ".hero-bottom > span"
+            ],
+            [
+              ".hero-bottom > a[href$=\"#about\"]"
+            ],
+            [
+              "a[href$=\"#about\"] > span[aria-hidden=\"true\"]"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Page at 390px",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "targets": [
+            [
+              ".hero-grid > div > .eyebrow"
+            ],
+            [
+              "#hero-title"
+            ],
+            [
+              ".hero-description"
+            ],
+            [
+              ".hero-context"
+            ],
+            [
+              ".actions > a[href=\"mailto:bhuguenard3@gatech.edu\"]"
+            ],
+            [
+              "figcaption"
+            ],
+            [
+              ".hero-bottom > span"
+            ],
+            [
+              ".hero-bottom > a[href$=\"#about\"]"
+            ],
+            [
+              "a[href$=\"#about\"] > span[aria-hidden=\"true\"]"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Page at 320px",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "targets": [
+            [
+              ".hero-grid > div > .eyebrow"
+            ],
+            [
+              "#hero-title"
+            ],
+            [
+              ".hero-description"
+            ],
+            [
+              ".hero-context"
+            ],
+            [
+              ".actions > a[href=\"mailto:bhuguenard3@gatech.edu\"]"
+            ],
+            [
+              "figcaption"
+            ],
+            [
+              ".hero-bottom > span"
+            ],
+            [
+              ".hero-bottom > a[href$=\"#about\"]"
+            ],
+            [
+              "a[href$=\"#about\"] > span[aria-hidden=\"true\"]"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Explore project: Reverie",
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "name": "Explore project: Teen Mental Health Predictive Model",
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "name": "Explore project: Nomad",
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "name": "Explore project: Findy",
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "name": "Explore project: MLB Season Simulator",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "targets": [
+            [
+              "dialog > .meta"
+            ],
+            [
+              "dialog > .bullet-list > li:nth-child(1)"
+            ],
+            [
+              "dialog > .bullet-list > li:nth-child(2)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "More about my education at Georgia Institute of Technology",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "targets": [
+            [
+              "#«r5»"
+            ],
+            [
+              "dialog > .bullet-list > li:nth-child(3)"
+            ],
+            [
+              "dialog > .bullet-list > li:nth-child(4)"
+            ],
+            [
+              "dialog > .bullet-list > li:nth-child(5)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "More about my education at Creekview High School",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "targets": [
+            [
+              "#«r6»"
+            ],
+            [
+              "dialog > .bullet-list > li:nth-child(1)"
+            ],
+            [
+              "dialog > .bullet-list > li:nth-child(2)"
+            ],
+            [
+              "dialog > .bullet-list > li:nth-child(4)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Course details for CS 6476: Computer Vision",
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "name": "Course details for CS 7643: Deep Learning",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "targets": [
+            [
+              "dialog > .bullet-list > li"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Course details for CS 3790: Introduction to Cognitive Science",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "targets": [
+            [
+              "dialog > .bullet-list > li"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Course details for CS 4400: Introduction to Database Systems",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "targets": [
+            [
+              "#«ra»"
+            ],
+            [
+              "dialog > .bullet-list > li:nth-child(2)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Course details for CX 4220: Introduction to High Performance Computing",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "targets": [
+            [
+              "#«rb»"
+            ],
+            [
+              "dialog > .bullet-list > li"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Course details for CS 4641: Machine Learning",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "targets": [
+            [
+              "#«rc»"
+            ],
+            [
+              "dialog > .bullet-list > li:nth-child(1)"
+            ],
+            [
+              "dialog > .bullet-list > li:nth-child(2)"
+            ],
+            [
+              "dialog > .bullet-list > li:nth-child(3)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Course details for CS 3600: Intro to Artificial Intelligence",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "targets": [
+            [
+              "dialog > .bullet-list > li:nth-child(1)"
+            ],
+            [
+              "dialog > .bullet-list > li:nth-child(2)"
+            ],
+            [
+              "dialog > .bullet-list > li:nth-child(3)"
+            ],
+            [
+              "dialog > .bullet-list > li:nth-child(4)"
+            ],
+            [
+              "dialog > .bullet-list > li:nth-child(5)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Course details for MATH 1554: Linear Algebra",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "targets": [
+            [
+              "dialog > .bullet-list > li:nth-child(1)"
+            ],
+            [
+              "dialog > .bullet-list > li:nth-child(2)"
+            ],
+            [
+              "dialog > .bullet-list > li:nth-child(4)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Course details for MATH 3215: Introduction to Probability and Statistics",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "targets": [
+            [
+              "#«rf»"
+            ],
+            [
+              "dialog > .bullet-list > li:nth-child(1)"
+            ],
+            [
+              "dialog > .bullet-list > li:nth-child(2)"
+            ],
+            [
+              "dialog > .bullet-list > li:nth-child(3)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Course details for CS 3510: Design and Analysis of Algorithms",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "targets": [
+            [
+              "#«rg»"
+            ],
+            [
+              "dialog > .bullet-list > li:nth-child(1)"
+            ],
+            [
+              "dialog > .bullet-list > li:nth-child(2)"
+            ],
+            [
+              "dialog > .bullet-list > li:nth-child(3)"
+            ],
+            [
+              "dialog > .bullet-list > li:nth-child(4)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Course details for CS 2340: Objects and Design",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "targets": [
+            [
+              "dialog > .bullet-list > li:nth-child(1)"
+            ],
+            [
+              "dialog > .bullet-list > li:nth-child(2)"
+            ],
+            [
+              "dialog > .bullet-list > li:nth-child(3)"
+            ],
+            [
+              "dialog > .bullet-list > li:nth-child(4)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Course details for CS 3001: Computing, Society, and Professionalism",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "targets": [
+            [
+              "#«ri»"
+            ],
+            [
+              "dialog > .bullet-list > li:nth-child(1)"
+            ],
+            [
+              "dialog > .bullet-list > li:nth-child(3)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Course details for CS 2200: Systems and Networks",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "targets": [
+            [
+              "#«rj»"
+            ],
+            [
+              "dialog > .bullet-list > li:nth-child(1)"
+            ],
+            [
+              "dialog > .bullet-list > li:nth-child(2)"
+            ],
+            [
+              "dialog > .bullet-list > li:nth-child(3)"
+            ],
+            [
+              "dialog > .bullet-list > li:nth-child(4)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Course details for CS 2110: Computer Organization",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "targets": [
+            [
+              "dialog > .bullet-list > li:nth-child(1)"
+            ],
+            [
+              "dialog > .bullet-list > li:nth-child(2)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Course details for MATH 3012: Applied Combinatorics",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "targets": [
+            [
+              "dialog > .bullet-list > li:nth-child(1)"
+            ],
+            [
+              "dialog > .bullet-list > li:nth-child(2)"
+            ],
+            [
+              "dialog > .bullet-list > li:nth-child(3)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Course details for CS 2050: Discrete Mathematics",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "targets": [
+            [
+              "#«rm»"
+            ],
+            [
+              "dialog > .bullet-list > li:nth-child(1)"
+            ],
+            [
+              "dialog > .bullet-list > li:nth-child(2)"
+            ],
+            [
+              "dialog > .bullet-list > li:nth-child(3)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Course details for CS 1332: Data Structures",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "targets": [
+            [
+              "dialog > .bullet-list > li:nth-child(1)"
+            ],
+            [
+              "dialog > .bullet-list > li:nth-child(3)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Course details for CS 1331: Intro to Object-Oriented Programming",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "help": "Elements must meet minimum color contrast ratio thresholds",
+          "targets": [
+            [
+              "#«ro»"
+            ],
+            [
+              "dialog > .bullet-list > li:nth-child(1)"
+            ],
+            [
+              "dialog > .bullet-list > li:nth-child(2)"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "axeVersion": "4.13.0"
+}

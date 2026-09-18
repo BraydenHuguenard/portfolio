@@ -1,55 +1,26 @@
-import { projects } from "../data/projects";
-import { ProjectModal } from "./Modals";
-import { useState } from "react";
+import { projects } from '../data/projects';
+import { ProjectModal } from './Modals';
+import { useState } from 'react';
 
 export default function Projects() {
   const [activeProject, setActiveProject] = useState(null);
-
+  const orderedProjects = [...projects].sort((a, b) => (a.title === 'MLB Season Simulator') - (b.title === 'MLB Season Simulator'));
   return (
-    <section id="projects" className="py-24 px-6 bg-[#f9fafb] text-[#1f2937]">
-      <div className="max-w-4xl mx-auto space-y-12">
-        <h2 className="text-3xl font-bold text-center font-serif">Projects</h2>
-        <div className="grid sm:grid-cols-2 gap-8">
-          {projects.map((proj, i) => (
-            <div
-              key={i}
-              className="p-6 bg-white border border-[#e5e7eb] rounded-lg shadow-md hover:shadow-lg transition"
-            >
-              <h3 className="text-xl font-semibold mb-1">{proj.title}</h3>
-              <p className="text-sm text-[#6b7280]">{proj.role}</p>
-              <ul className="mt-3 list-disc list-inside text-sm space-y-1 text-[#4b5563]">
-                {proj.summary}
-              </ul>
-              <div className="mt-4 flex justify-between items-center">
-                <a
-                  href={proj.git}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="text-[#6366f1] text-sm font-medium hover:underline"
-                >
-                  GitHub ↗
-                </a>
-                <button
-                  onClick={() => setActiveProject(proj)}
-                  className="text-[#10b981] text-sm font-medium hover:underline"
-                >
-                  About ↗
-                </button>
-              </div>
+    <section id="projects" className="section tinted" aria-labelledby="projects-title">
+      <div className="container"><p className="eyebrow">From idea to something useful</p><h2 id="projects-title">Selected projects</h2>
+        <p className="section-intro">On-device AI, collaborative apps, and experiments with data.</p>
+        <div className="card-grid">{orderedProjects.map((project, index) => (
+          <article className="card project-card" key={project.title}>
+            <span className="project-number" aria-hidden="true">{String(index + 1).padStart(2, '0')} /</span>
+            <h3>{project.title}</h3><p className="meta">{project.role}</p><p className="project-summary">{project.summary}</p>
+            <div className="card-actions">
+              <button className="text-link" aria-label={`Explore project: ${project.title}`} onClick={() => setActiveProject(project)}>Explore project <span aria-hidden="true">↗</span></button>
+              {project.git && <a className="text-link" href={project.git} aria-label={`${project.git.includes('github.gatech') ? 'Code (GT login)' : 'GitHub'}: ${project.title}`}>{project.git.includes('github.gatech') ? 'Code (GT login)' : 'GitHub'} <span aria-hidden="true">↗</span></a>}
             </div>
-          ))}
-        </div>
+          </article>
+        ))}</div>
       </div>
-
-      {activeProject && (
-        <ProjectModal
-          title={activeProject.title}
-          role={activeProject.role}
-          imgs={activeProject.imgs}
-          description={activeProject.description}
-          onClose={() => setActiveProject(null)}
-        />
-      )}
+      {activeProject && <ProjectModal {...activeProject} onClose={() => setActiveProject(null)} />}
     </section>
   );
 }

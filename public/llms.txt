@@ -1,0 +1,12 @@
+# Brayden Huguenard
+
+> Personal portfolio of a Georgia Tech computer science student working on AI systems, iOS apps, and full-stack software.
+
+## Portfolio
+
+- [About](https://braydenhuguenard.com/#about): Background and technical skills.
+- [Experience](https://braydenhuguenard.com/#experience): Engineering, leadership, and teaching roles.
+- [Projects](https://braydenhuguenard.com/#projects): Selected software and machine learning projects.
+- [Education](https://braydenhuguenard.com/#education): Education and expected graduation dates.
+- [Coursework](https://braydenhuguenard.com/#classes): Completed and in-progress courses.
+- [Resume (PDF)](https://braydenhuguenard.com/assets/Fall-2026-Resume.pdf): Fall 2026 resume.

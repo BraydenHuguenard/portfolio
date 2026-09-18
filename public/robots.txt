@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://braydenhuguenard.com/sitemap.xml
