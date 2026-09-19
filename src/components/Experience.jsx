@@ -4,7 +4,6 @@ export default function Experience() {
   return (
     <section id="experience" className="section" aria-labelledby="experience-title">
       <div className="container">
-        <p className="eyebrow">Building, shipping, teaching</p>
         <h2 id="experience-title">Experience</h2>
         <div className="experience-list">
           {experience.map((job) => (
