@@ -1,7 +1,19 @@
 export const courses = [
-  { title: 'Computer Vision', num: 'CS 6476', status: 'In progress · Fall 2026', highlights: ['Graduate-level coursework'], description: ['Enrolled in Computer Vision in Fall 2026. Course details will be added after completion.'] },
-  { title: 'Deep Learning', num: 'CS 7643', status: 'In progress · Fall 2026', highlights: ['Graduate-level coursework'], description: ['Enrolled in Deep Learning in Fall 2026. Course details will be added after completion.'] },
-  { title: 'Introduction to Cognitive Science', num: 'CS 3790', status: 'In progress · Fall 2026', highlights: ['Current undergraduate coursework'], description: ['Enrolled in Introduction to Cognitive Science in Fall 2026. Course details will be added after completion.'] },
+  {
+    title: 'Computer Vision', num: 'CS 6476', status: 'In progress · Fall 2026 · Graduate',
+    highlights: ['Image formation & filtering', 'Features & geometry', 'Recognition with deep learning'],
+    description: ['Graduate course taken toward the M.S. in Computer Science (Machine Learning).', 'Covers image formation, camera models, linear filtering, edge detection, and frequency-domain analysis.', 'Works with feature detection and matching, homographies, epipolar geometry, stereo, and motion estimation.', 'Builds toward object recognition and detection with convolutional neural networks through hands-on Python projects.'],
+  },
+  {
+    title: 'Deep Learning', num: 'CS 7643', status: 'In progress · Fall 2026 · Graduate',
+    highlights: ['Neural network optimization', 'CNNs & transformers', 'PyTorch implementation'],
+    description: ['Graduate course taken toward the M.S. in Computer Science (Machine Learning).', 'Covers backpropagation, optimization, regularization, and the practical training of deep neural networks.', 'Studies convolutional networks, recurrent models, attention, transformers, and generative models.', 'Implements and trains models from scratch and in PyTorch, with a team research-style final project.'],
+  },
+  {
+    title: 'Introduction to Cognitive Science', num: 'CS 3790', status: 'In progress · Fall 2026 · Undergraduate',
+    highlights: ['Perception & memory', 'Language & reasoning', 'Computational models of mind'],
+    description: ['Undergraduate course completing the B.S. in Computer Science.', 'Explores the mind from multiple angles: psychology, neuroscience, linguistics, philosophy, and artificial intelligence.', 'Examines perception, attention, memory, language, learning, and decision-making.', 'Compares human cognition with computational models, connecting the material to how AI systems are designed.'],
+  },
   {
     title: 'Introduction to Database Systems', num: 'CS 4400', status: 'Completed · Spring 2026',
     highlights: ['SQL & relational databases', 'Schema design & normalization', 'Teaching assistant'],

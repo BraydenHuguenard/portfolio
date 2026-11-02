@@ -18,7 +18,7 @@ Deploy the `dist/` directory through the existing hosting provider. This update 
 
 ## Content
 
-Professional experience and skills live in `src/data/experience.js`; education, coursework, and projects live in the neighboring data files. The active resume is `public/assets/Fall-2026-Resume.pdf`. Update the navbar and footer when replacing that file.
+Professional experience and skills live in `src/data/experience.js`; education, coursework, and projects live in the neighboring data files. The active resume is `public/assets/Winter-2026-Resume.pdf`. Update the navbar and footer when replacing that file.
 
 The September 2026 refresh uses the supplied Fall 2026 resume and September 14, 2026 transcript, plus the publicly readable [LinkedIn profile](https://www.linkedin.com/in/brayden-huguenard/). The newer resume takes precedence over the older LinkedIn graduation date. Current courses are explicitly marked in progress. Existing project and high-school details were retained. No transcript, date of birth, or student identifiers were copied into the website.
 

@@ -9,7 +9,7 @@ export default function Navbar() {
             <li key={id}><a href={`#${id}`}>{id === 'classes' ? 'Coursework' : id[0].toUpperCase() + id.slice(1)}</a></li>
           ))}
         </ul>
-        <a className="nav-resume" href="/assets/Fall-2026-Resume.pdf">Resume <span className="file-label">(PDF)</span></a>
+        <a className="nav-resume" href="/assets/Winter-2026-Resume.pdf">Resume <span className="file-label">(PDF)</span></a>
       </nav>
     </header>
   );

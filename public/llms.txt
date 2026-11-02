@@ -9,4 +9,4 @@
 - [Projects](https://braydenhuguenard.com/#projects): Selected software and machine learning projects.
 - [Education](https://braydenhuguenard.com/#education): Education and expected graduation dates.
 - [Coursework](https://braydenhuguenard.com/#classes): Completed and in-progress courses.
-- [Resume (PDF)](https://braydenhuguenard.com/assets/Fall-2026-Resume.pdf): Fall 2026 resume.
+- [Resume (PDF)](https://braydenhuguenard.com/assets/Winter-2026-Resume.pdf): Winter 2026 resume.

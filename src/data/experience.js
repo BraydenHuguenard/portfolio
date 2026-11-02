@@ -1,5 +1,14 @@
-// Professional details verified against the Fall 2026 resume.
+// Professional details verified against the Winter 2026 resume.
 export const experience = [
+  {
+    organization: 'auris · Midtown ENT', role: 'iOS Engineer (Contract)', dates: 'September 2026 – Present',
+    highlights: [
+      'Designed and built auris end to end as the sole engineer, an iOS app for ENT patients to track tinnitus severity and daily habits.',
+      'Developed trend analysis that surfaces associations between habits and symptoms, with CSV/PDF exports for clinic visits.',
+      'Built an opt-in AI summary and chat API on AWS (Lambda, Bedrock, DynamoDB) with Supabase JWT auth and response caching.',
+      'Implemented local-first privacy controls: on-device health data, no server-side chat retention, and full account deletion across Supabase and AWS.',
+    ],
+  },
   {
     organization: 'Georgia Tech App', role: 'Technical Lead', dates: 'December 2025 – Present',
     highlights: [
